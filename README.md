@@ -1,29 +1,4 @@
-# Ticket Analysis Report
 
-## Project Overview
-This project analyzes ticket data using Power BI to track performance, categories, and resolution time.
-
-## Features
-- Drill-through analysis for Groups A, B, C, D
-- Interactive dashboard using slicers
-- Bookmark navigation with buttons
-- AI visuals for better insights
-- Sync slicers across pages
-
-## Tools Used
-- Power BI
-- Excel
-
-## Key Insights
-- Identified high-priority ticket categories
-- Improved tracking of resolution time
-- Better understanding of group-wise performance
-
-## Screenshots
-(Add your dashboard images here)
-
-## Conclusion
-This dashboard helps in monitoring ticket trends and improving decision-making.
 # Ticket Analysis Report
 
 ## Project Overview
@@ -64,7 +39,7 @@ This dashboard provides a high-level summary of ticket data, including total tic
 It categorizes tickets based on **Days Group (0–5, 6–15, 16–30, 30+)** and **Priority Levels**, helping to quickly understand workload distribution and urgency.
 
 ### Executive Dashboard
-![Executive](Executive Page.png)
+![Executive page](Executive Page.png)
 
 Displays key performance indicators (KPIs) such as total tickets and user count.  
 Includes visualizations like waterfall charts and bar charts to analyze **ticket trends and group-wise performance**.
