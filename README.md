@@ -39,7 +39,7 @@ This dashboard provides a high-level summary of ticket data, including total tic
 It categorizes tickets based on **Days Group (0–5, 6–15, 16–30, 30+)** and **Priority Levels**, helping to quickly understand workload distribution and urgency.
 
 ### Executive Dashboard
-![Executive Dashboard](Executive Page.png)
+![Executive Dashboard](Executive.png)
 
 Displays key performance indicators (KPIs) such as total tickets and user count.  
 Includes visualizations like waterfall charts and bar charts to analyze **ticket trends and group-wise performance**.
